@@ -1,5 +1,6 @@
 🌤️ Weather Forecast Website 🌧️
-Welcome to the Weather Forecast App! This web application allows users to get the current weather and a 5-day weather forecast for any city. It provides a simple and intuitive interface to check the weather conditions. 🌞❄️
+Welcome to the Weather Forecast App!
+This web application allows users to get the current weather and a 5-day weather forecast for any city. It provides a simple and intuitive interface to check the weather conditions. 🌞❄️
 
 Features 🚀
 Current Weather 🌡️: Get real-time weather data, including temperature, humidity, wind speed, and weather conditions.
@@ -13,6 +14,7 @@ Replace the apiKey variable in script.js with your API key:
 javascript
 Copy code
 const apiKey = '*************************';
+
 🎨 Styling
 This app uses basic CSS for styling, with background images that change according to the weather condition. Custom styles are applied for different weather scenarios, ensuring a visually engaging experience.
 
@@ -45,4 +47,4 @@ Happy coding! 👩‍💻👨‍💻
 
 
 
-
+Uploading Weather Forecast - Google Chrome 2024-12-26 13-27-36.mp4…
