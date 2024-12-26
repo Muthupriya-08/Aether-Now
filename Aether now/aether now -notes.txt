@@ -1,0 +1,6 @@
+aether now 
+ 1.index.html
+ 2.style.css
+ 3.script.js
+ 4.weather api  ---> Open Weather Map --->(api key)--73c650faa4bb22f346018c4efdd8ecb3
+ 5.NEWS API --> 33538a91384646b08719146aa06a80cf  (api key)
