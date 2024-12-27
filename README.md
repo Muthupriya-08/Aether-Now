@@ -1,4 +1,5 @@
 🌤️ Weather Forecast Website 🌧️
+
 Welcome to the Weather Forecast App!
 This web application allows users to get the current weather and a 5-day weather forecast for any city. It provides a simple and intuitive interface to check the weather conditions. 🌞❄️
 
